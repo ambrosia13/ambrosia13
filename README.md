@@ -12,7 +12,7 @@ additionally, I've been working on a standalone rendering engine and path tracer
 
 my favorite general-purpose language is Rust, which is what many of my projects are made out of, but I also use a lot of C# (for Unity and Godot projects), C, and sometimes Python. it's a personal goal of mine to learn Zig use it to write a toy operating system , since I've learned how to build a kernel in C in university and would love to explore how much deeper I can go.
 
-in general, I really enjoy challening myself by using handwritten code to introduce creative spins on common programming approaches, and I think I write the best code when I'm simultaneously exercising my creative muscle. I hope that wherever my coding skills take me, it'll be a place where I can utilize both my technical skills and creative side to make software that improves the quality standard of both indie & commercial software.
+in general, I really enjoy challening myself by using handwritten code to introduce creative spins on common programming approaches, and I think I write the best code when I'm simultaneously exercising my creative muscle. I hope that wherever my coding skills take me, it'll be a place where I can utilize both my technical skills and creative side to write code that improves the quality standard of both indie & commercial software.
 
 I hope you enjoyed reading my profile! feel free to look at any of my work in the 'repositories' tab. have a nice day!
 
